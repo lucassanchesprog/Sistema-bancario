@@ -1,5 +1,3 @@
-# Sistema-bancario
-Projeto em Python simulando operações bancarias.
 # Sistema Bancário (Python)
 
 Projeto de simulação de operações bancárias.
